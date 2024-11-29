@@ -1,0 +1,19 @@
+{
+  "name": "pixi_test_task",
+  "version": "1.0.0",
+  "description": "JS Games Developer exam",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "Vladyslav Shypko",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^8.6.1"
+  },
+  "devDependencies": {
+    "vite": "^6.0.1"
+  }
+}
